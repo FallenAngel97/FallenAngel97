@@ -1,6 +1,8 @@
 Hi there!
 
-I'm developer from Ukraine, I enjoy writing in Ruby, JS and C#
+I'm a software architect from Ukraine, I am language-agnostic from programming perspective
+
+You can see my projects at: 
 
 https://decodeapps.pp.ua
 
